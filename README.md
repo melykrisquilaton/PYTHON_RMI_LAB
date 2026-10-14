@@ -75,4 +75,4 @@ The client retrieves the product name, description, and price without directly a
 
 ## Reference
 
-Original Java RMI project: https://github.com/nix1947/sunway_dpp/tree/master/JAVA_RMI_IV
+Original Java RMI project: https://github.com/melykrisquilaton/PYTHON_RMI_LAB
